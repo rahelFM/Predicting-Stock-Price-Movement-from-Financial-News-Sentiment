@@ -100,7 +100,7 @@ This task focuses on modularizing the project structure and performing initial e
 
 ## Contributors
 
-* **Rahel F. M.** (Initial modularization and EDA)
+* **Rahel Sileshi** (Initial modularization and EDA)
 
 ---
 
