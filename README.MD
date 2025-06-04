@@ -18,7 +18,7 @@ This project explores how financial news sentiment impacts stock price movement 
 - Analyzed word frequency and sentiment distribution
 
 ## Task 2: Technical Indicator Analysis
-
+Task 2 is under branch task-2. 
 - Calculate indicators using TA-Lib (e.g., RSI, MACD, moving averages)
 - Analyze stock prices with PyNance
 - Visualize impact of indicators on price trends
